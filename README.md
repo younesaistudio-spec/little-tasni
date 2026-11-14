@@ -4,7 +4,7 @@
 
 Little Tasni is a luxury kidswear **concept brand**: a one-page landing website showing the brand's story, a first collection of four pieces, a lifestyle moment and the brand colour palette. The feel is soft, calm and quietly luxurious, with ivory and blush tones, lots of white space, hairline details and elegant serif type.
 
-**Live site:** LIVE_SITE_URL_HERE
+**Live site:** https://younesaistudio-spec.github.io/little-tasni/
 
 ## Concept brand
 
